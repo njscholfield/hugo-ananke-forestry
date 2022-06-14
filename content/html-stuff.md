@@ -5,5 +5,7 @@ title = "HTML Stuff"
 
 +++
 <script>
-  console.log('test');
+console.log('test');
 </script>
+
+Here is some content
