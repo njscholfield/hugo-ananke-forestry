@@ -4,8 +4,6 @@ featured_image = ""
 title = "HTML Stuff"
 
 +++
-<script>
-console.log('test');
-</script>
-
 Here is some content
+
+{ <script>console.log("test") }
