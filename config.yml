@@ -1,5 +1,5 @@
 ---
-baseURL: http://example.org/
+baseURL: https://forestry.noahjam.es/
 languageCode: en-us
 title: Hugo Ananke Forestry Starter
 module:
@@ -19,7 +19,7 @@ params:
   site_logo: ''
   description: The last theme you'll ever need. Maybe.
   facebook: ''
-  twitter: https://twitter.com/GoHugoIO
+  twitter: https://twitter.com/cloudflare
   instagram: ''
   youtube: ''
   github: ''
