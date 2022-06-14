@@ -9,3 +9,5 @@ Welcome to my blog with some of my work in progress. I've been working on this b
 Here is the home page that should be showing up but isn't for some reason.
 
 More changes?
+
+Here is another change because the last one didn't seem to work
